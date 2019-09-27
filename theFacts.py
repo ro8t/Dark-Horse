@@ -9,3 +9,6 @@ nyc_land_cov = 302.643
 bart_land_cov = 494.684
 sp_land_cov = 587
 london_land_cov = 607
+
+# Number of Lines
+bart_line_tot = 5
