@@ -19,8 +19,9 @@ Each city has their own data file/folder, labeled accordingly:
 - São Paulo: sao-paulo-metro-data
 - San Francisco: BART Data Sources
 
-The program has been written in python with the use of
+The program has been written in python with the use of the following libraries:
 - Pandas
 - numpy
 - matplotlib
-And the file name is *bart_project.ipynb* 
+
+The file name is *bart_project.ipynb* 
